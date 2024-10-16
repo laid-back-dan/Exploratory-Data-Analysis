@@ -81,7 +81,7 @@ install.packages(c("ggplot2", "dplyr"))
 ## Folder Structure
 word_pop_data/: Contains all CSV datasets used in the analysis.
 Exploratory-Data-Analysis.Rmd: The main RMarkdown file for running the analysis.
-README.md: This file.
+Exploratory-Data-Analysis.md: This file.
 
 Results and Insights
 The full results of the analysis, including visualizations and insights, can be found in the HTML report generated from the RMarkdown file.
