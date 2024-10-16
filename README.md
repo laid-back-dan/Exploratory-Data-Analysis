@@ -29,8 +29,7 @@ names(data_list) <- basename(file_list)
 ```
 
 
-```{r Access individual datasets}
-# 
+```{r Access individual datasets} 
 iq <- data_list[["iq.csv"]]
 quality_of_life <- data_list[["quality_of_life.csv"]]
 population_density <- data_list[["population_density.csv"]]
